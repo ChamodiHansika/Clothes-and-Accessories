@@ -24,11 +24,11 @@ This project presents an interactive **Excell dashboard** that visualizes sales 
 - **Automation:** Calculated metrics updated dynamically using DAX.
 
 ## Screenshots
-![Dashboard Screenshot 1](screenshots/dashboard_overview.png)  
-![Dashboard Screenshot 2](screenshots/sales_by_region.png)  
+![Dashboard Screenshot 1]([screenshots/dashboard_overview.png](https://github.com/ChamodiHansika/Clothes-and-Accessories/blob/main/Product%20Catelog.png))  
+
 
 ## Dashboard Link
-You can view the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiEXAMPLELINK12345).
+You can view the live dashboard [here]([https://app.powerbi.com/view?r=eyJrIjoiEXAMPLELINK12345](https://github.com/ChamodiHansika/Clothes-and-Accessories/blob/main/Product%20ABalysis.pbit)).
 
 ---
 
